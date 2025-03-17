@@ -1,0 +1,12 @@
+# Ignore machine learning model files
+*.pkl
+
+# Ignore dataset files
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore logs and temporary files
+*.log
