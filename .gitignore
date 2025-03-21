@@ -1,5 +1,3 @@
-# Ignore machine learning model files
-*.pkl
 
 # Ignore dataset files
 *.csv
